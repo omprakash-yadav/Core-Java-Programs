@@ -1,2 +1,2 @@
 # Core-Java-Programs
-Basic java programs
+This repository contains basic programs of java language topic wise.
